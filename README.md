@@ -1,7 +1,10 @@
 # Language-Agents-Playing-Language-Games
 How do popular language model perform in common strategies language games against other models or even humans? Will their performance substantially improve if we incorporate ReAct, COT, and persistent memory?
 
-## 🕹️ Games Overview
+## Next steps:  
+Trying to build a web interface to show agents playing the game, and include an option for human players to compete with them
+
+## Games Overview
 
 ### Game 1 Akinator
 - **Game Rules**  
