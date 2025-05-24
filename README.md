@@ -22,7 +22,7 @@ Trying to build a web interface to show agents playing the game, and include an 
   Detective 'detect action' and killers 'kill action' are also promopted to follow chain of thought and reflection  
   
 
-### 2.3 Imposter （谁是卧底 in Chinese）
+### Game 3 Imposter （谁是卧底 in Chinese）
 - **Game Roles and rules**  
   Similar to Mafia but with dynamic deduction, simpler rules, more attention paid to not making mistake in speech and cathing others' mistake, rules are found in : https://whoisspy.ai/#/
 - **Agent Behavior Design**  
