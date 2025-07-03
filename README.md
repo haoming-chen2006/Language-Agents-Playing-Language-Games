@@ -4,6 +4,22 @@ How do popular language model perform in common strategies language games agains
 ## Next steps:  
 Trying to build a web interface to show agents playing the game, and include an option for human players to compete with them
 
+## Running the Demo Web UIs
+
+Simple React interfaces are provided for Akinator and Imposter under
+`Akinator/web` and `Imposter/web`. They do not require any build tools. Start a
+local web server from each folder and open the page in your browser:
+
+```bash
+cd Akinator/web
+python -m http.server
+# then visit http://localhost:8000
+
+cd ../../Imposter/web
+python -m http.server
+# then visit http://localhost:8000
+```
+
 ## Games Overview
 
 ### Game 1 Akinator
